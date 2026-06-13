@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 ## Видеоматериал
 
-**В каждый experement** (кроме 4) следует положить сответствующий видеоролик из яндекс диска:
+**В каждый experiment** (кроме 4) следует положить сответствующий видеоролик из яндекс диска:
 
 - experiment_1.1 - Эксперимент_1.mp4
 - experiment_1.2 - Эксперимент_1.mp4
@@ -56,3 +56,10 @@ pip install -r requirements.txt
 - experiment_4_2 - Не работает
 
 После переноса видоролика в соответствующую папку, **переименовать его в video.mp4.**
+
+## Авторы
+
+- kesh371581@gmail.com
+- artemkuzn05@gmail.com
+- sichev.nikita756@gmail.com
+- pavelmino44@gmail.com
