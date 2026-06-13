@@ -50,10 +50,10 @@ pip install -r requirements.txt
 - experiment_1.2 - Эксперимент_1.mp4
 - experiment_2.1 - Эксперимент_2.mp4
 - experiment_2.2 - Эксперимент_2.mp4
-- experiment_3_1 - Эксперимент_3.mp4
-- experiment_3_2 - Эксперимент_3.mp4
-- experiment_4_1 - Не работает
-- experiment_4_2 - Не работает
+- experiment_3.1 - Эксперимент_3.mp4
+- experiment_3.2 - Эксперимент_3.mp4
+- experiment_4.1 - Не работает
+- experiment_4.2 - Не работает
 
 После переноса видоролика в соответствующую папку, **переименовать его в video.mp4.**
 
