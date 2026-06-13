@@ -1,0 +1,11 @@
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# VSCode
+.vscode/
+
+# Ignore all .mp4 files anywhere in the project
+*.mp4
